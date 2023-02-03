@@ -3,7 +3,15 @@
     padding: 0;
 }
 
-.hero {
+/* .hero {
     height: 100vh;
     background-color: salmon;
+} */
+
+form {
+    width: 50%;
+    margin: 5em auto;
+}
+fieldset {
+    padding: 4em;
 }
